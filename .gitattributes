@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+lung_cancer_mortality_data_large_v2.csv filter=lfs diff=lfs merge=lfs -text
